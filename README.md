@@ -86,6 +86,7 @@ A cinematic, Nike-inspired e-commerce website with shopping cart, checkout, admi
 
 ## 📁 New Files Created
 
+
 | File | Description |
 |------|-------------|
 | `src/contexts/AuthContext.tsx` | Authentication context & state management |
