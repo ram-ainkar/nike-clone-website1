@@ -203,3 +203,4 @@ A cinematic, Nike-inspired e-commerce website with shopping cart, checkout, admi
 - Stock indicator - "Out of Stock" badge
 - Sale badge - Percentage discount
 - Rating
+- anaysis dash board
